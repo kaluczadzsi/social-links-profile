@@ -50,7 +50,7 @@ img {
   display: block;
   max-width: 100%;
   width: 5.5rem;
-  margin-bottom: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
   border-radius: 50%;
 }
 
@@ -90,7 +90,7 @@ img {
 
 .tag {
   margin-bottom: var(--spacing-md);
-  color: #ffffffbe;
+  color: #ffffff9d;
   font-size: var(--font-size-sm);
 }
 
